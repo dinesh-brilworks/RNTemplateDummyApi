@@ -25,8 +25,12 @@
     }
   },
   "profile": {
+    "success": true,
+    "message": "User registered successfully",
     "first_name": "Dinesh",
-    "last_name": "Kachhot",
-    "email": "dinesh.k@brilworks.com"
+    "data": {
+      "last_name": "Kachhot",
+      "email": "dinesh.k@brilworks.com"
+    }
   }
 }
