@@ -1,14 +1,32 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  "login": 
+    { 
+      "success": true,
+      "message": "User logged in successfully",
+      "data": {
+        "first_name": "Dinesh",
+        "last_name": "Kachhot",
+        "token": "fsdoiewerio09402340ioscdsojdcsjl"
+      } 
+    },
+  "registration": {
+      "success": true,
+      "message": "User registered successfully",
+      "data": {
+        "first_name": "Dinesh",
+        "last_name": "Kachhot",
+        "token": "fsdoiewerio09402340ioscdsojdcsjl"
+      },
+  },
+  "forgot_password": {
+    "success": true,
+    "message": "User change passwork link is sent on your mail successfully",
+    "data": {
+    },
+  }
   "profile": {
-    "name": "typicode"
+    "first_name": "Dinesh",
+    "last_name": "Kachhot",
+    "email": "dinesh.k@brilworks.com",
   }
 }
