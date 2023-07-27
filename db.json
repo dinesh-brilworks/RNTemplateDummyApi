@@ -7,7 +7,7 @@
         "first_name": "Dinesh",
         "last_name": "Kachhot",
         "token": "fsdoiewerio09402340ioscdsojdcsjl"
-      } 
+      }
     },
   "registration": {
       "success": true,
@@ -16,17 +16,17 @@
         "first_name": "Dinesh",
         "last_name": "Kachhot",
         "token": "fsdoiewerio09402340ioscdsojdcsjl"
-      },
+      }
   },
   "forgot_password": {
     "success": true,
     "message": "User change passwork link is sent on your mail successfully",
     "data": {
-    },
+    }
   },
   "profile": {
     "first_name": "Dinesh",
     "last_name": "Kachhot",
-    "email": "dinesh.k@brilworks.com",
+    "email": "dinesh.k@brilworks.com"
   }
 }
