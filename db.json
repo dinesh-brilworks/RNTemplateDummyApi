@@ -26,7 +26,7 @@
   },
   "profile": {
     "success": true,
-    "message": "User registered successfully",
+    "message": "User profile successfully",
     "data": {
       "first_name": "Dinesh",
       "last_name": "Kachhot",
