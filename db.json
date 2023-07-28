@@ -24,6 +24,28 @@
     "data": {
     }
   },
+  "players": [
+    {
+      "name": "Cristiano Ronaldo",
+      "Position": "Center Forward",
+      "image": "https://i0.wp.com/www.leoranews.com/wp-content/uploads/2022/12/Cristiano-Ronaldo-001.jpg?w=640&ssl=1"
+    },
+    {
+      "name": "Lional Messi",
+      "Position": "Center Forward",
+      "image": "https://img.olympicchannel.com/images/image/private/t_s_w1620/t_s_16_9_g_auto/f_auto/primary/zwk6cdunv4u9jhh9vhkj"
+    },
+    {
+      "name": "Sergio Remos",
+      "Position": "Defender",
+      "image": "https://sporteology.net/wp-content/uploads/2018/05/Sergio-Ramos-Profile.jpg"
+    },
+    {
+      "name": "Wein Roony",
+      "Position": "Mid Filder",
+      "image": "https://www.sportzvision.com/images/wayney-roney.jpg"
+    }
+  ]
   "profile": {
     "success": true,
     "message": "User profile successfully",
